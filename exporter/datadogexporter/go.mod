@@ -3,7 +3,7 @@ module github.com/open-telemetry/opentelemetry-collector-contrib/exporter/datado
 go 1.21.0
 
 require (
-	github.com/DataDog/agent-payload/v5 v5.0.120
+	github.com/DataDog/agent-payload/v5 v5.0.121
 	github.com/DataDog/datadog-agent/comp/core/config v0.54.0
 	github.com/DataDog/datadog-agent/comp/core/hostname/hostnameinterface v0.54.0
 	github.com/DataDog/datadog-agent/comp/core/log v0.54.0
@@ -192,7 +192,7 @@ require (
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/grafana/regexp v0.0.0-20221122212121-6b5c0a4cb7fd // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.20.0 // indirect
-	github.com/hashicorp/consul/api v1.28.3 // indirect
+	github.com/hashicorp/consul/api v1.29.1 // indirect
 	github.com/hashicorp/cronexpr v1.1.2 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect

@@ -217,7 +217,7 @@ require (
 	github.com/ClickHouse/ch-go v0.61.5 // indirect
 	github.com/ClickHouse/clickhouse-go/v2 v2.23.0 // indirect
 	github.com/Code-Hex/go-generics-cache v1.3.1 // indirect
-	github.com/DataDog/agent-payload/v5 v5.0.120 // indirect
+	github.com/DataDog/agent-payload/v5 v5.0.121 // indirect
 	github.com/DataDog/datadog-agent/comp/core/config v0.54.0 // indirect
 	github.com/DataDog/datadog-agent/comp/core/hostname/hostnameinterface v0.54.0 // indirect
 	github.com/DataDog/datadog-agent/comp/core/log v0.54.0 // indirect
@@ -435,7 +435,7 @@ require (
 	github.com/grobie/gomemcache v0.0.0-20230213081705-239240bbc445 // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.20.0 // indirect
 	github.com/gsterjov/go-libsecret v0.0.0-20161001094733-a6f4afe4910c // indirect
-	github.com/hashicorp/consul/api v1.28.3 // indirect
+	github.com/hashicorp/consul/api v1.29.1 // indirect
 	github.com/hashicorp/cronexpr v1.1.2 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
